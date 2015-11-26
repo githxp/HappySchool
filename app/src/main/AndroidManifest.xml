@@ -30,6 +30,7 @@
         <meta-data
             android:name="com.amap.api.v2.apikey"
             android:value="b54ebb2486c3e8d852b14c6b45f2e54f" />
+        <service android:name="com.amap.api.location.APSService"></service>
 
         <activity
             android:name="com.hxp.happyschool.activitys.MainActivity"

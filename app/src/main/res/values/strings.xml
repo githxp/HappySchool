@@ -10,4 +10,8 @@
     <string name="txt_btn_navigation">校园导航</string>
     <string name="txt_btn_examination">校园考场</string>
     <string name="txt_btn_score">成绩助手</string>
+    <!--校园导航活动文字信息-->
+    <string name="txt_check_traffic">交通图</string>
+    <string name="txt_check_satellite">卫星图</string>
+    <string name="txt_check_night">夜景图</string>
 </resources>
