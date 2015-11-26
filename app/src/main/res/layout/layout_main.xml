@@ -1,9 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
-<TextView
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:text="123"/>
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <!--课堂联盟按钮-->
+    <Button
+        android:id="@+id/btn_classroom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_btn_classroom" />
+    <!--校园微博按钮-->
+    <Button
+        android:id="@+id/btn_micblog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_btn_micblog" />
+    <!--校园头条按钮-->
+    <Button
+        android:id="@+id/btn_topline"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_btn_topline" />
+    <!--校园食堂按钮-->
+    <Button
+        android:id="@+id/btn_canteen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_btn_canteen" />
+    <!--课表精灵按钮-->
+    <Button
+        android:id="@+id/btn_timetable"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_btn_timetable" />
+    <!--数字书馆按钮-->
+    <Button
+        android:id="@+id/btn_library"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_btn_library" />
+    <!--校园导航按钮-->
+    <Button
+        android:id="@+id/btn_navigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_btn_navigation" />
+    <!--校园考场按钮-->
+    <Button
+        android:id="@+id/btn_examination"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_btn_examination" />
+    <!--成绩助手按钮-->
+    <Button
+        android:id="@+id/btn_score"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_btn_score" />
 </LinearLayout>

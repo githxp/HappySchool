@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">HappySchool</string>
+    <string name="app_name">乐校</string>
+    <!--主活动文字信息-->
+    <string name="txt_btn_classroom">课堂联盟</string>
+    <string name="txt_btn_micblog">校园微博</string>
+    <string name="txt_btn_topline">校园头条</string>
+    <string name="txt_btn_canteen">校园食堂</string>
+    <string name="txt_btn_timetable">课表精灵</string>
+    <string name="txt_btn_library">数字书馆</string>
+    <string name="txt_btn_navigation">校园导航</string>
+    <string name="txt_btn_examination">校园考场</string>
+    <string name="txt_btn_score">成绩助手</string>
 </resources>
