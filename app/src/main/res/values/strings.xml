@@ -7,11 +7,18 @@
     <string name="txt_btn_canteen">校园食堂</string>
     <string name="txt_btn_timetable">课表精灵</string>
     <string name="txt_btn_library">数字书馆</string>
-    <string name="txt_btn_navigation">校园导航</string>
+    <string name="txt_btn_navigation">校园地图</string>
     <string name="txt_btn_examination">校园考场</string>
     <string name="txt_btn_score">成绩助手</string>
     <!--校园导航活动文字信息-->
     <string name="txt_check_traffic">交通图</string>
     <string name="txt_check_satellite">卫星图</string>
     <string name="txt_check_night">夜景图</string>
+    <string name="txt_btn_poisearch">搜索</string>
+    <string name="txt_btn_nextresult">下一个</string>
+    <string name="txt_noresult">对不起，没有搜索到相关数据！</string>
+    <string name="txt_errorother">未知错误，请稍后重试!错误码为</string>
+    <string name="txt_errornetwork">搜索失败,请检查网络连接！</string>
+    <string name="txt_errorkey">key验证无效！</string>
+
 </resources>
