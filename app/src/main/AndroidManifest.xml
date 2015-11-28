@@ -41,6 +41,8 @@
             </intent-filter>
         </activity>
         <activity android:name="com.hxp.happyschool.activitys.Map3DActivity" />
+        <activity android:name="com.hxp.happyschool.activitys.test" />
+
     </application>
 
 </manifest>

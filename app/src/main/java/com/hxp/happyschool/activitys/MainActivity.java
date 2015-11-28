@@ -20,8 +20,16 @@ public class MainActivity extends Activity {
         obj_navigation.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent6 = new Intent(MainActivity.this,Map3DActivity.class);
+                Intent intent6 = new Intent(MainActivity.this, Map3DActivity.class);
                 startActivity(intent6);
+            }
+        });
+        Button obj_test = (Button) findViewById(R.id.btn_test);
+        obj_test.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent10 = new Intent(MainActivity.this,test.class);
+                startActivity(intent10);
             }
         });
 }
