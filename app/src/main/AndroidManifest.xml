@@ -42,6 +42,7 @@
         </activity>
         <activity android:name="com.hxp.happyschool.activitys.Map3DActivity" />
         <activity android:name="com.hxp.happyschool.activitys.test" />
+        <activity android:name=".activitys.thread" />
 
     </application>
 

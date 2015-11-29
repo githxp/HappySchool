@@ -62,4 +62,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/txt_btn_test" />
+    <Button
+        android:id="@+id/btn_mainthread"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="线程测试" />
 </LinearLayout>

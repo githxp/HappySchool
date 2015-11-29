@@ -32,5 +32,13 @@ public class MainActivity extends Activity {
                 startActivity(intent10);
             }
         });
-}
+        Button obj_thread = (Button) findViewById(R.id.btn_mainthread);
+        obj_thread.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent11 = new Intent(MainActivity.this,thread.class);
+                startActivity(intent11);
+            }
+        });
+    }
 }
